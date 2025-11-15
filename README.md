@@ -1,5 +1,5 @@
 
-# COMP100 2025F Lab 03: Guess-Check, Approximation, Bisection - PreLab
+# COMP100 Lab 03: Guess-Check, Approximation, Bisection - PreLab
 
 ## Deadline: 10:00 AM Friday 7th November 2025
 
