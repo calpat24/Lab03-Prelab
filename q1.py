@@ -13,6 +13,7 @@ def iterative_approximation_exponential(a, b, epsilon=0.001, delta=0.0001, max_i
         
         x += delta
         
+
         
     print("Solution not found within max iterations")
     return None
